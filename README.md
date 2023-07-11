@@ -21,5 +21,3 @@ To build a California housing price prediction model, the following steps can be
 7. Hyperparameter Tuning: Fine-tune the model's hyperparameters using techniques like grid search or Bayesian optimization. This step aims to further improve the model's performance by finding the best combination of hyperparameters.
 
 8. Deployment and Prediction: Once the model is trained and optimized, deploy it to predict housing prices for new, unseen data. Users can input relevant features of a housing unit, such as location, size, and amenities, and the model will generate a predicted price based on the learned patterns from the training data.
-
-It's important to note that the accuracy of the California housing price prediction model depends on the quality and representativeness of the dataset, the choice of features, and the suitability of the machine learning algorithm. Continuous monitoring and retraining of the model with updated data will help maintain its accuracy as the housing market evolves over time.
